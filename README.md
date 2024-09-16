@@ -1,2 +1,4 @@
 # codecademy-open-source
-Test
+
+This is my sample open source code repo - yippee!
+
